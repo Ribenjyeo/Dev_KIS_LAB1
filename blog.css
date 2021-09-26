@@ -1,0 +1,30 @@
+body {
+    background-color: #eeeeee;
+}
+
+.cap-site{
+    padding: 14px;
+    background-color: white;
+    margin-left: 14px;
+}
+
+.user-exit{
+    position: absolute; 
+    top: 18px; 
+    right: 28px;
+}
+
+.btn-exit{
+    color: #fff;
+    background-color: #007bff;
+    width: 200px;
+    border-color: #007bff;
+}
+
+.card.messageoutput {
+    margin: 50px;
+    margin-left: 200px;
+    margin-right: 200px;
+}
+
+
